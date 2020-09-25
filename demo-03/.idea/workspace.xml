@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc7127bd-3eb1-4dc3-9904-91517d8a7fd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/opt/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1huSwQ27Vm5N9coCyMJn71evxfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/proto" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1025" y="215" width="800" height="673" key="#Build_Tags_&amp;_Vendoring" timestamp="1600862082188">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1025" y="215" width="800" height="673" key="#Build_Tags_&amp;_Vendoring/0.27.1920.1053@0.27.1920.1053" timestamp="1600862082188" />
+    <state x="1217" y="292" width="424" height="514" key="FileChooserDialogImpl" timestamp="1600945191211">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1217" y="292" width="424" height="514" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1600945191211" />
+    <state x="666" y="343" key="SettingsEditor" timestamp="1600865622194">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="666" y="343" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1600865622194" />
+  </component>
+</project>
